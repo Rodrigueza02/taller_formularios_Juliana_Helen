@@ -1,6 +1,5 @@
 from django.db import models
 
-
 TIPO_SOLICITUD_CHOICES = [
     ('academica', 'Académica'),
     ('administrativa', 'Administrativa'),
